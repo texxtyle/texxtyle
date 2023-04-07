@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @texxtyle I'm here to learn and learn, explore and create
+- 👋 Hi, I’m @texxtyle I'm here to learn, explore and create
 - 👀 I’m interested in AI and LLM
 - 🌱 I’m currently learning prompting varies AI application
 - 💞️ I’m looking to collaborate on AI
